@@ -1,0 +1,13 @@
+
+1. Descargar Node:
+
+https://nodejs.org/en/
+
+
+
+2.  Abrir el archivo. bat
+
+
+3. Inicia el bot.
+
+
