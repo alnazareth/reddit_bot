@@ -9,7 +9,7 @@ async function start(username, password, message) {
     try {
         const browser = await puppeteer.launch({ headless: false });
         const page = await browser.newPage();
-        await page.goto("https://www.reddit.com/search/?q=gold&type=sr");
+        await page.goto("https://www.reddit.com/search/?q=gold&type=sr");  // here is where you can put the link of the Communities you what to send you  message.
 
         const isLogin = await page.evaluate(() =>
             Array.from(document.querySelectorAll("#login-button > span > span")).map(x => x.textContent)
