@@ -1,5 +1,12 @@
 🔥 If you like spam, this is the bot for you.🔥 
 
+***************************************
+*                                     *
+*        WELCOME TO THE REDDIT BOT    *
+*                                     *
+*                  V1.0               *
+***************************************
+
 This bot allows you to explore reddit communities and post in bulk.
 
 🚥 This project makes use of the Nodejs Puppeteer library with which we have automated the tasks within the browser🚥
